@@ -1,0 +1,9 @@
+metrics:
+  wal_directory: /tmp/wal
+  global:
+    remote_write:
+      # - url: http://localhost:9009/api/prom/push
+
+integrations:
+  agent:
+    enabled: true

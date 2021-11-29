@@ -1,0 +1,19 @@
+t=2021-10-23T00:34:48-0500 lvl=info msg="Validated license token" logger=licensing appURL=http://localhost:3000/ source=disk status=NotFound
+t=2021-10-23T00:34:48-0500 lvl=warn msg="failed to load or validate token" logger=licensing.renewal err="license token file not found: /Users/rsotello/PycharmProjects/metrics/grafana-8.2.1/data/license.jwt"
+t=2021-10-23T01:34:48-0500 lvl=info msg="Validated license token" logger=licensing appURL=http://localhost:3000/ source=disk status=NotFound
+t=2021-10-23T01:34:48-0500 lvl=warn msg="failed to load or validate token" logger=licensing.renewal err="license token file not found: /Users/rsotello/PycharmProjects/metrics/grafana-8.2.1/data/license.jwt"
+t=2021-10-23T02:34:48-0500 lvl=info msg="Validated license token" logger=licensing appURL=http://localhost:3000/ source=disk status=NotFound
+t=2021-10-23T02:34:48-0500 lvl=warn msg="failed to load or validate token" logger=licensing.renewal err="license token file not found: /Users/rsotello/PycharmProjects/metrics/grafana-8.2.1/data/license.jwt"
+t=2021-10-23T03:18:11-0500 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/live/ws status=0 remote_addr=[::1] time_ms=7 size=0 referer=
+t=2021-10-23T18:15:52-0500 lvl=info msg="Validated license token" logger=licensing appURL=http://localhost:3000/ source=disk status=NotFound
+t=2021-10-23T18:15:52-0500 lvl=warn msg="failed to load or validate token" logger=licensing.renewal err="license token file not found: /Users/rsotello/PycharmProjects/metrics/grafana-8.2.1/data/license.jwt"
+t=2021-10-23T19:15:52-0500 lvl=info msg="Validated license token" logger=licensing appURL=http://localhost:3000/ source=disk status=NotFound
+t=2021-10-23T19:15:52-0500 lvl=warn msg="failed to load or validate token" logger=licensing.renewal err="license token file not found: /Users/rsotello/PycharmProjects/metrics/grafana-8.2.1/data/license.jwt"
+t=2021-10-23T20:15:52-0500 lvl=info msg="Validated license token" logger=licensing appURL=http://localhost:3000/ source=disk status=NotFound
+t=2021-10-23T20:15:52-0500 lvl=warn msg="failed to load or validate token" logger=licensing.renewal err="license token file not found: /Users/rsotello/PycharmProjects/metrics/grafana-8.2.1/data/license.jwt"
+t=2021-10-23T21:15:52-0500 lvl=info msg="Validated license token" logger=licensing appURL=http://localhost:3000/ source=disk status=NotFound
+t=2021-10-23T21:15:52-0500 lvl=warn msg="failed to load or validate token" logger=licensing.renewal err="license token file not found: /Users/rsotello/PycharmProjects/metrics/grafana-8.2.1/data/license.jwt"
+t=2021-10-23T22:15:52-0500 lvl=info msg="Validated license token" logger=licensing appURL=http://localhost:3000/ source=disk status=NotFound
+t=2021-10-23T22:15:52-0500 lvl=warn msg="failed to load or validate token" logger=licensing.renewal err="license token file not found: /Users/rsotello/PycharmProjects/metrics/grafana-8.2.1/data/license.jwt"
+t=2021-10-23T23:15:52-0500 lvl=info msg="Validated license token" logger=licensing appURL=http://localhost:3000/ source=disk status=NotFound
+t=2021-10-23T23:15:52-0500 lvl=warn msg="failed to load or validate token" logger=licensing.renewal err="license token file not found: /Users/rsotello/PycharmProjects/metrics/grafana-8.2.1/data/license.jwt"
